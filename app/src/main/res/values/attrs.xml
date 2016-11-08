@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<attr name="bgColor" />-->
+
+    <declare-styleable name="er_polylinechart">
+        <!--坐标轴线条出息-->
+        <attr name="er_coordinatesLineWidth" format="dimension" />
+        <!--坐标轴字体大小-->
+        <attr name="er_coordinatesTextSize" format="dimension" />
+        <!--坐标轴轴字体颜色-->
+        <attr name="er_coordinatesTextColor" format="color" />
+        <!--折线颜色-->
+        <attr name="er_lineColor" format="color" />
+        <!--折线粗细-->
+        <attr name="er_lineWidth" format="dimension" />
+        <!--小圆点半径-->
+        <attr name="er_averageCircleradius" format="dimension" />
+        <!--表格的数据类型-->
+        <attr name="er_tableType" format="string" />
+        <!--大圆点的颜色-->
+        <attr name="er_maxcircleColor" format="color" />
+        <!--小圆点的颜色-->
+        <attr name="er_mincircleColor" format="color" />
+        <!--背景色-->
+        <attr name="er_bgColor" format="color" />
+
+    </declare-styleable>
+
+    <!--<declare-styleable name="polylinechart">-->
+        <!--&lt;!&ndash;坐标轴线条出息&ndash;&gt;-->
+        <!--<attr name="coordinatesLineWidth" format="dimension" />-->
+        <!--&lt;!&ndash;坐标轴字体大小&ndash;&gt;-->
+        <!--<attr name="coordinatesTextSize" format="dimension" />-->
+        <!--&lt;!&ndash;坐标轴轴字体颜色&ndash;&gt;-->
+        <!--<attr name="coordinatesTextColor" format="color" />-->
+        <!--&lt;!&ndash;折线颜色&ndash;&gt;-->
+        <!--<attr name="lineColor" format="color" />-->
+        <!--&lt;!&ndash;折线粗细&ndash;&gt;-->
+        <!--<attr name="lineWidth" format="dimension" />-->
+        <!--&lt;!&ndash;小圆点半径&ndash;&gt;-->
+        <!--<attr name="averageCircleradius" format="dimension" />-->
+        <!--&lt;!&ndash;表格的数据类型&ndash;&gt;-->
+        <!--<attr name="tableType" format="string" />-->
+        <!--&lt;!&ndash;大圆点的颜色&ndash;&gt;-->
+        <!--<attr name="maxcircleColor" format="color" />-->
+        <!--&lt;!&ndash;小圆点的颜色&ndash;&gt;-->
+        <!--<attr name="mincircleColor" format="color" />-->
+        <!--&lt;!&ndash;背景色&ndash;&gt;-->
+        <!--<attr name="bgColor" format="color" />-->
+
+    <!--</declare-styleable>-->
+
+
+</resources>
