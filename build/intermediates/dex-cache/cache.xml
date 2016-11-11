@@ -3,39 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e78f5eb010c65173c40b9e01fa92047a606eec9">
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88ad180b0b4b9d70c17d73eb66b023b9b328855e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_5ceb97ff53b29986e13fc89a95c66d0ba8fc53f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="3c0208faf42864e6695345e64d1b955070263819">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_233c85e1e2a2e8ad8d0e1ed23dd68c81bdb4911c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="72210138421b1f2c3ed738c573226b7062806ff4">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_272c73938ce3bdc53cafbe0a62b32eeefcb8cb58/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_e72a2aae4b934ca036a9850dd19e59e8733ebbb5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="836d6e7eea06fe665f8a6d7f0cfc0740d09344b7">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77bdecb8001394b4859878131d2102a57dd3a4a1/classes.dex" />
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_c3ca96f82df475866c431a0b1bd219e7380db0ad/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -44,34 +35,43 @@
         optimize="true"
         revision="24.0.1"
         sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_5eacafb2832f56010b0f346a93fc0d528537cef9/classes.dex" />
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_5eacafb2832f56010b0f346a93fc0d528537cef9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="23d564c059873f398dc5d967f56791a66472ce76">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_c31c3b8c6835daf49448c366792e61ad6ce419ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_e2fc0a45c99f762fbbedcf81489c7c5b38a91009/classes.dex" />
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_81e8f4157bbdc2d72430be2d2e3704b8ec7ae749/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
-        <dex dex="/Users/admin/code/future/view/anroidwatchtable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_9c8b0f6ce06dfdea80f65d0555b5e6373a58e6c0/classes.dex" />
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_6859053008744a5959813630d1da824ec3ae826a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_115070f5ca2775e67720690d5bf4f693d979b52b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="46ca2e5641f4635e8213725349dbab5ba0693871">
+        <dex dex="/Users/admin/code/bingo/ErPolyLineChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_39658f57ccf7a725e30ba81e38b9d997b0194c9b/classes.dex" />
     </item>
 
 </items>

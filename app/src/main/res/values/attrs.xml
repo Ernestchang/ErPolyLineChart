@@ -2,28 +2,48 @@
 <resources>
 
     <!--<attr name="bgColor" />-->
+    <!--坐标轴线条出息-->
+    <attr name="er_coordinatesLineWidth" format="dimension" />
+    <!--坐标轴字体大小-->
+    <attr name="er_coordinatesTextSize" format="dimension" />
+    <!--坐标轴轴字体颜色-->
+    <attr name="er_coordinatesTextColor" format="color" />
+    <!--折线颜色-->
+    <attr name="er_lineColor" format="color" />
+    <!--折线粗细-->
+    <attr name="er_lineWidth" format="dimension" />
+    <!--小圆点半径-->
+    <attr name="er_averageCircleradius" format="dimension" />
+    <!--表格的数据类型-->
+    <attr name="er_tableType" format="string" />
+    <!--大圆点的颜色-->
+    <attr name="er_maxcircleColor" format="color" />
+    <!--小圆点的颜色-->
+    <attr name="er_mincircleColor" format="color" />
+    <!--背景色-->
+    <attr name="er_bgColor" format="color" />
 
     <declare-styleable name="er_polylinechart">
         <!--坐标轴线条出息-->
-        <attr name="er_coordinatesLineWidth" format="dimension" />
+        <attr name="er_coordinatesLineWidth"  />
         <!--坐标轴字体大小-->
-        <attr name="er_coordinatesTextSize" format="dimension" />
+        <attr name="er_coordinatesTextSize"  />
         <!--坐标轴轴字体颜色-->
-        <attr name="er_coordinatesTextColor" format="color" />
+        <attr name="er_coordinatesTextColor"  />
         <!--折线颜色-->
-        <attr name="er_lineColor" format="color" />
+        <attr name="er_lineColor"  />
         <!--折线粗细-->
-        <attr name="er_lineWidth" format="dimension" />
+        <attr name="er_lineWidth" />
         <!--小圆点半径-->
-        <attr name="er_averageCircleradius" format="dimension" />
+        <attr name="er_averageCircleradius"  />
         <!--表格的数据类型-->
-        <attr name="er_tableType" format="string" />
+        <attr name="er_tableType"  />
         <!--大圆点的颜色-->
-        <attr name="er_maxcircleColor" format="color" />
+        <attr name="er_maxcircleColor"  />
         <!--小圆点的颜色-->
-        <attr name="er_mincircleColor" format="color" />
+        <attr name="er_mincircleColor" />
         <!--背景色-->
-        <attr name="er_bgColor" format="color" />
+        <attr name="er_bgColor" />
 
     </declare-styleable>
 
